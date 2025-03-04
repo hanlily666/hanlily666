@@ -5,7 +5,7 @@
 I am looking for full-time position in Software Engineer / frontend position. 
 I'm actively involved in developing AI-powered Web Applications and always on the way to find the next exciting work! 
 
-## Tech Stack
+## 👩🏻‍💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -19,12 +19,12 @@ I'm actively involved in developing AI-powered Web Applications and always on th
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-00A98F?style=flat-square&logo=cursor&logoColor=white)
 
-## Projects
+## 😻 Projects
 
 💻 AI-powered educational web application, UIUC.chat, assisting instructors and students for a better learning experience
 
 
-## Find me here
+## 📧 Find me here
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ruixin-han-1ba010170)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruixinhan0101@gmail.com)
