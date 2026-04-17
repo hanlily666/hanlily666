@@ -20,8 +20,8 @@ I'm actively involved in developing AI-powered Web Applications and always on th
 ![Cursor](https://img.shields.io/badge/-Cursor-00A98F?style=flat-square&logo=cursor&logoColor=white)
 
 ## 😻 Projects
-
-💻 AI-powered educational web application, UIUC.chat, assisting instructors and students for a better learning experience
+👩🏻‍💻 AI-powered etymology tool tracing Silk Road loanwords in the Xi'an Hui Muslim dialect, backed by a full OCR-to-RAG pipeline.
+💻 AI-powered educational web application, UIUC.chat, assisting instructors and students for a better learning experience.
 
 
 ## 📧 Find me here
