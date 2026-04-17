@@ -1,6 +1,6 @@
 # Hi, I'm Ruixin Han! 👋
 
-## ❤️‍🔥 About me
+## ❤️‍🔥 [About me](https://ruixinhan.com/)
 
 I am looking for full-time position in Software Engineer / frontend position. 
 I'm actively involved in developing AI-powered Web Applications and always on the way to find the next exciting work! 
